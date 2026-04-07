@@ -5,7 +5,7 @@
 import javax.swing.*;
 /**
  *
- * @author Juan Nieto.
+ * @author Juan Nieto
  */
 public class Actividad {
     public static void main(String args[])
